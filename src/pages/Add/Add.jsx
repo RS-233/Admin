@@ -3,7 +3,7 @@ import './Add.css'
 import { assets } from '../../assets/assets'
 import axios from 'axios'
 import { toast } from 'react-toastify'
-const Add = ({url}) => {
+const Add = ({`https://admin-gamma-opal.vercel.app`}) => {
 
     const [image, setImage] = useState(false)
 
